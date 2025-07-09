@@ -1,5 +1,5 @@
 # Puzzle Panel
-<img src='https://github.com/itsujiht/puzzlePanel/blob/main/public/pplogo.png' width='50%' height='auto' style='margin:0 auto;'>
+<img src='https://github.com/itsujiht/puzzlePanel/blob/main/public/pplogo.png' width='50%' height='auto' style='text-align: center; margin:0 auto;'>
 
 ## ルール説明
 
