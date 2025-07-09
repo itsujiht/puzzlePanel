@@ -1,11 +1,11 @@
 # Puzzle Panel
-<img src='https://github.com/itsujiht/tsujit/blob/main/public/pplogo.png' width='50%' height='auto'>
+<img src='https://github.com/itsujiht/puzzlePanel/blob/main/public/pplogo.png' width='50%' height='auto' style='margin:0 auto;'>
 
 ## ルール説明
 
 ### 画面
 上から、現在のレベル(何問クリアしたか)、残機(失敗して良い回数)、お手本グリッド、操作グリッド、残り操作回数、答えの表示ボタン、難易度設定(easy : 3×3、medium : 4×4、hard : 5×5のグリッド)が表示されています。
-<img src='https://github.com/itsujiht/tsujit/blob/main/public/description1.png' width='60%' height='auto'>
+<img src='https://github.com/itsujiht/puzzlePanel/blob/main/public/description1.png' width='60%' height='auto'>
 
 ### ゲームの流れ
 このゲームにおいての操作は基本的に操作グリッド内に示された"0"から"8"の9つのマスのいずれかをクリックすることだけです。
@@ -13,13 +13,13 @@
 
 例えば、以下の画像の左に示されるような状態で"4"のマスをクリックすると、右のように変化することになります。
 <div style='display: flex;'>
-<img src='https://github.com/itsujiht/tsujit/blob/main/public/description2.png' width='40%' height='auto'>
-<img src='https://github.com/itsujiht/tsujit/blob/main/public/description3.png' width='40%' height='auto'>
+<img src='https://github.com/itsujiht/puzzlePanel/blob/main/public/description2.png' width='40%' height='auto'>
+<img src='https://github.com/itsujiht/puzzlePanel/blob/main/public/description3.png' width='40%' height='auto'>
 </div>
 "2"のグリッドの場合は次のような変化が見られます。
 <div style='display: flex;'>
-<img src='https://github.com/itsujiht/tsujit/blob/main/public/description3.png' width='40%' height='auto'>
-<img src='https://github.com/itsujiht/tsujit/blob/main/public/description4.png' width='40%' height='auto'>
+<img src='https://github.com/itsujiht/puzzlePanel/blob/main/public/description4.png' width='40%' height='auto'>
+<img src='https://github.com/itsujiht/puzzlePanel/blob/main/public/description5.png' width='40%' height='auto'>
 </div>
 
 クリックすると、残り操作回数は1つ減ります。
