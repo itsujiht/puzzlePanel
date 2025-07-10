@@ -2,7 +2,7 @@
 <img src='https://github.com/itsujiht/puzzlePanel/blob/main/public/pplogo.png' width='50%' height='auto' style='text-align: center; margin:0 auto;'>
 
 ## デモプレイ映像
-<video src='https://github.com/itsujiht/puzzlePanel/blob/main/public/ppDemoPlay.mp4' controls='true' width='70%'></video>
+https://drive.google.com/file/d/1Bc1UShWAOgY0uBP6H0AD8wD05pCkaZI3/view?usp=sharing
 
 ## ルール
 
