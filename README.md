@@ -1,7 +1,10 @@
 # Puzzle Panel
 <img src='https://github.com/itsujiht/puzzlePanel/blob/main/public/pplogo.png' width='50%' height='auto' style='text-align: center; margin:0 auto;'>
 
-## ルール説明
+## デモプレイ映像
+<video src='https://github.com/itsujiht/puzzlePanel/blob/main/public/ppDemoPlay.mp4' controls='true' width='70%'></video>
+
+## ルール
 
 ### 画面
 上から、現在のレベル(何問クリアしたか)、残機(失敗して良い回数)、お手本グリッド、操作グリッド、残り操作回数、答えの表示ボタン、難易度設定(easy : 3×3、medium : 4×4、hard : 5×5のグリッド)が表示されています。
